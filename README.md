@@ -1,76 +1,104 @@
 # Hi, I'm Samuel Fernandes 👋
 
-I'm an IT professional based in Rio de Janeiro, Brazil, focused on building a career in **Data Engineering**.
+I'm a technology professional from Rio de Janeiro, Brazil, building my career in **Data Engineering**.
 
-I currently work with technology in an innovation and development team while expanding my experience with data pipelines, data processing, lakehouse architecture and analytics.
+I currently work in a software development team in the Brazilian public sector, with a primary focus on **data and back-end development**. My work involves extracting, cleaning, standardizing and structuring operational data, developing ETL routines in Python, working with relational databases and supporting internal software projects.
+
+I'm particularly interested in turning messy, unstructured data into reliable datasets and building the infrastructure that allows data to be consumed efficiently by applications and analytics.
 
 ## About me
 
 * 🎓 Degree in Systems Analysis and Development
 * 📚 Postgraduate student in Data Engineering at PUC Minas
-* 💼 Working in an IT innovation and development environment
-* 🔧 Building practical projects involving APIs, ETL/ELT and data pipelines
-* 📊 Interested in scalable data platforms, analytics and cloud data engineering
-* 🎯 Long-term goal: Data Engineer → Data Architect
+* 💼 Experience with data processing and software development in the public sector
+* 🔧 Working with ETL, data quality, APIs and relational databases
+* ☁️ Currently expanding my knowledge of cloud and Lakehouse architectures
+* 🎯 Long-term goal: **Data Engineer → Data Architect**
+* 🌎 Advanced English — C1
 
-## Tech stack
+## Tech Stack
 
-### Data Engineering
+### Data & Development
 
 * Python
 * SQL
+* Pandas
+* PostgreSQL
+* REST APIs
+* ETL / ELT
+* Data Cleaning & Data Quality
+* Relational Databases
+
+### Engineering Tools
+
+* Git & GitHub
+* GitHub Actions
+* Linux
+* Unit Testing
+* Excel
+
+### Currently Learning
+
 * PySpark
 * Apache Spark
-* Databricks
+* Azure Databricks
 * Delta Lake
-* Pandas
-* ETL and ELT pipelines
 * Medallion Architecture
+* Azure Data Services
+* Lakehouse Architecture
+* Data Pipeline Orchestration
+* Data Governance
 
-### Tools and Analytics
+## Featured Project
 
-* Git and GitHub
-* VS Code
-* Power BI
-* REST APIs
-* Linux
+### [ViaCEP Medallion Data Pipeline](https://github.com/samuelferoli/medalhao-viacep)
 
-### Currently learning
+An end-to-end Python data pipeline built to explore fundamental Data Engineering concepts using the public ViaCEP API.
 
-* Azure data services
-* Databricks Lakehouse Platform
-* Data pipeline orchestration
-* Cloud data architecture
-* Data quality and governance
-
-## Featured project
-
-### [ViaCEP Medallion Data Pipeline](https://github.com/s4mucaso/ExtractionAPI)
-
-A data pipeline that extracts Brazilian address data from the ViaCEP API and processes it through **Bronze, Silver and Gold layers**.
+```text
+ViaCEP API
+    ↓
+Bronze
+Raw JSON ingestion
+    ↓
+Silver
+Cleaning, validation, lineage and deduplication
+    ↓
+Gold
+Analytical aggregations
+    ↓
+Dashboard
+```
 
 The project includes:
 
-* Raw API data ingestion
-* Timestamped Bronze storage
-* Cleaning and deduplication
-* Data lineage information
-* Gold-layer aggregations
+* REST API ingestion with error handling and timeouts
+* Bronze, Silver and Gold layers
+* Data cleaning and standardization
+* Deduplication and idempotent processing
+* Data lineage metadata
+* Schema evolution handling
+* Analytical aggregations
+* Automated unit and integration tests
+* Continuous Integration with GitHub Actions
 * Local analytics dashboard
 
-**Technologies:** Python, REST API, JSON, CSV, HTML and Chart.js.
+**Technologies:** Python, REST APIs, JSON, CSV, GitHub Actions, HTML and JavaScript.
 
-## What I'm working toward
+## Current Focus
 
-I'm currently developing projects that demonstrate the complete data engineering lifecycle:
+I'm currently strengthening the core skills required for Data Engineering:
 
-1. Data ingestion
-2. Data transformation
-3. Data quality
-4. Data storage
-5. Pipeline orchestration
-6. Analytics and visualization
+* Designing reliable data pipelines
+* Data modeling and data quality
+* Distributed processing with Spark
+* Lakehouse architecture with Databricks and Delta Lake
+* Cloud data engineering on Azure
+* Pipeline orchestration and monitoring
+* Writing maintainable and testable data engineering code
+
+My next projects will focus on building more complex cloud-based pipelines involving **PySpark, Databricks, Delta Lake and Azure**.
 
 ## Connect with me
 
-[LinkedIn](www.linkedin.com/in/samuel-fernandes-de)
+[LinkedIn](https://www.linkedin.com/in/samuel-fernandes-de)
