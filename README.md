@@ -1,104 +1,109 @@
-# Hi, I'm Samuel Fernandes 👋
+<h1 align="center">Samuel Fernandes</h1>
 
-I'm a technology professional from Rio de Janeiro, Brazil, building my career in **Data Engineering**.
+<p align="center">
+  <b>Data Engineering</b> · Python · SQL · PySpark · Azure Databricks<br/>
+  Rio de Janeiro, Brazil
+</p>
 
-I currently work in a software development team in the Brazilian public sector, with a primary focus on **data and back-end development**. My work involves extracting, cleaning, standardizing and structuring operational data, developing ETL routines in Python, working with relational databases and supporting internal software projects.
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuel-fernandes-de"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-DP--750-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Certified DP-750"/>
+  <img src="https://img.shields.io/badge/AWS%20Certified-AI%20Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified AI Practitioner"/>
+</p>
 
-I'm particularly interested in turning messy, unstructured data into reliable datasets and building the infrastructure that allows data to be consumed efficiently by applications and analytics.
+---
 
 ## About me
 
-* 🎓 Degree in Systems Analysis and Development
-* 📚 Postgraduate student in Data Engineering at PUC Minas
-* 💼 Experience with data processing and software development in the public sector
-* 🔧 Working with ETL, data quality, APIs and relational databases
-* ☁️ Currently expanding my knowledge of cloud and Lakehouse architectures
-* 🎯 Long-term goal: **Data Engineer → Data Architect**
-* 🌎 Advanced English — C1
+I'm a data-focused developer at the **Rio de Janeiro State Government**, where I build and maintain internal systems and handle the data work behind them. Day to day, that means integrating and cleaning inconsistent operational data, writing Python and SQL against relational databases, and working in a team with Git, code review and CI.
 
-## Tech Stack
+I enjoy turning messy data into datasets people can trust, and I'm specializing in the **Lakehouse stack**: Spark, Databricks, Delta Lake and Azure. My goal is to grow as a Data Engineer and, in the long run, into Data Architecture.
 
-### Data & Development
+## Experience
 
-* Python
-* SQL
-* Pandas
-* PostgreSQL
-* REST APIs
-* ETL / ELT
-* Data Cleaning & Data Quality
-* Relational Databases
+**Systems & Data Development** — Rio de Janeiro State Government · *Jul 2026 – present*
+<br/>Development and maintenance of internal applications (Python, Django, PostgreSQL, Docker), data integration and standardization, and code review.
 
-### Engineering Tools
+**IT & Data Support** — Rio de Janeiro State Government · *Apr 2026 – Jul 2026*
+<br/>Data organization and support for internal processes.
 
-* Git & GitHub
-* GitHub Actions
-* Linux
-* Unit Testing
-* Excel
+## Education
 
-### Currently Learning
+- 📚 **Postgraduate Specialization in Data Engineering** — PUC Minas · *2026 – 2027 (in progress)*
+- 🎓 **Technologist Degree in Systems Analysis and Development** — Faculdade de Tecnologia Senac Rio · *2023 – 2025*
 
-* PySpark
-* Apache Spark
-* Azure Databricks
-* Delta Lake
-* Medallion Architecture
-* Azure Data Services
-* Lakehouse Architecture
-* Data Pipeline Orchestration
-* Data Governance
+## Certifications
 
-## Featured Project
+| Certification | Issuer | Issued |
+| --- | --- | --- |
+| Azure Databricks Data Engineer Associate (DP-750) | Microsoft | Oct 2026 |
+| AWS Certified AI Practitioner (AIF-C01) | Amazon Web Services | Sep 2026 |
+| Databricks Fundamentals Accreditation | Databricks Academy | Sep 2026 |
+| Data Engineer Associate | DataCamp | Jul 2026 |
+| SQL (Intermediate) | HackerRank | Jun 2026 |
+| EF SET English Certificate — C1 | EF | Oct 2025 |
 
-### [ViaCEP Medallion Data Pipeline](https://github.com/samuelferoli/medalhao-viacep)
+🗓️ Next up: **AWS Certified Cloud Practitioner** (Nov 2026)
 
-An end-to-end Python data pipeline built to explore fundamental Data Engineering concepts using the public ViaCEP API.
+## Tech stack
 
-```text
-ViaCEP API
-    ↓
-Bronze
-Raw JSON ingestion
-    ↓
-Silver
-Cleaning, validation, lineage and deduplication
-    ↓
-Gold
-Analytical aggregations
-    ↓
-Dashboard
-```
+**Data & languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 
-The project includes:
+**Lakehouse & cloud**
+<br/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks"/>
+<img src="https://img.shields.io/badge/Delta%20Lake-00ADD4?style=flat-square&logo=delta&logoColor=white" alt="Delta Lake"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
 
-* REST API ingestion with error handling and timeouts
-* Bronze, Silver and Gold layers
-* Data cleaning and standardization
-* Deduplication and idempotent processing
-* Data lineage metadata
-* Schema evolution handling
-* Analytical aggregations
-* Automated unit and integration tests
-* Continuous Integration with GitHub Actions
-* Local analytics dashboard
+**Engineering**
+<br/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
 
-**Technologies:** Python, REST APIs, JSON, CSV, GitHub Actions, HTML and JavaScript.
+**Practices:** ETL/ELT · Medallion architecture · data quality and validation · REST API ingestion · deduplication and idempotent reprocessing · automated testing · CI
 
-## Current Focus
+## Projects
 
-I'm currently strengthening the core skills required for Data Engineering:
+### 🏞️ [Mini Lakehouse de Vendas](https://github.com/samuelferoli/mini-lakehouse-vendas)
+A Medallion pipeline on **Azure Databricks**. Raw sales data lands in Bronze, is cleaned with **PySpark** in Silver and becomes customer metrics with **Spark SQL** in Gold. Every table is stored as **Delta** and registered in **Unity Catalog**.
 
-* Designing reliable data pipelines
-* Data modeling and data quality
-* Distributed processing with Spark
-* Lakehouse architecture with Databricks and Delta Lake
-* Cloud data engineering on Azure
-* Pipeline orchestration and monitoring
-* Writing maintainable and testable data engineering code
+`Databricks` `PySpark` `Spark SQL` `Delta Lake` `Unity Catalog`
 
-My next projects will focus on building more complex cloud-based pipelines involving **PySpark, Databricks, Delta Lake and Azure**.
+### 📊 [Sales Report Automation](https://github.com/samuelferoli/sales-report-automation)
+A modular Python ETL that consolidates inconsistent Excel and CSV reports from several stores. It handles mixed encodings and delimiters, maps different column names to one schema, cleans currency and date values, and sends invalid rows to an audit tab with the reason for each rejection. It also removes duplicate orders and produces a multi-tab Excel report with store and product KPIs. Tested with pytest and GitHub Actions.
 
-## Connect with me
+`Python` `Pandas` `openpyxl` `Data Quality` `pytest` `CI`
 
-[LinkedIn](https://www.linkedin.com/in/samuel-fernandes-de)
+### 📮 [ViaCEP Medallion Pipeline](https://github.com/samuelferoli/viacep-medallion-pipeline)
+An end-to-end pipeline over the public ViaCEP API. It ingests data with timeouts and error handling, keeps the raw JSON in Bronze, cleans and deduplicates it with lineage metadata in Silver, and builds aggregations by region, state, city and area code in Gold. It includes tests, CI and a local dashboard.
+
+`Python` `REST API` `Medallion` `Testing` `GitHub Actions`
+
+### 🏃 [Pacelake](https://github.com/samuelferoli/intervals_api_project) · *in design*
+A personal training and wellness app built on a data engineering pipeline. Data from Intervals.icu (activities, sleep and wellness) will flow through webhooks into a Delta Lakehouse on ADLS Gen2, be processed with PySpark and served to a Django application. The architecture, decision log and feasibility checks are documented. Implementation starts after the platform checks pass, within a budget of 20 BRL per month.
+
+`Azure` `ADLS Gen2` `PySpark` `Delta Lake` `Django` `PostgreSQL`
+
+## Currently
+
+- 🔨 Running the platform feasibility checks for **Pacelake**
+- 📖 Preparing for **AWS Cloud Practitioner** and progressing in my postgraduate program
+- ✍️ Writing about data and technology at **BrasaBit**
+
+---
+
+<p align="center">
+  Open to <b>Data Engineering</b> opportunities · Rio de Janeiro (on-site or hybrid)<br/>
+  <a href="https://www.linkedin.com/in/samuel-fernandes-de">Let's connect on LinkedIn</a>
+</p>
